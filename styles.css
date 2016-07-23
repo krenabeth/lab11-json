@@ -3,7 +3,7 @@ body {
 	margin-left: 15%;
 }
 ul {
-	padding-left: 20%;
+	padding: 5px 0 5px 25px;
 }
 .top {
 	background-color: purple;
@@ -15,7 +15,5 @@ ul {
 }
 .list {
 	background-color: #cfcbf0;
-}
-.pic {
-	width: 100px;
+	margin-top: -30px;
 }
